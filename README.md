@@ -51,14 +51,6 @@ app over time. Each layer can evolve independently, minimizing the risk of intro
     - **Data Sources**: Includes the APIs, database, and other sources of data. In this app, Retrofit 
    is used for network calls to the OpenWeatherMap API.
 
-## App Screenshots
-<p>
-   <p>
-      <img src="screenshots/HomeScreen.png" width="185" height="400" alt="Home Screen"/>
-      <img src="screenshots/ForecastsScreen.png" width="185" height="400" alt="Forecasts Screen"/> 
-   </p>
-</p>
-
 ## Technologies Used
 BasicWeatherApp utilizes Gradle's new version catalog feature for managing dependencies, streamlining the
 build process and ensuring consistency across projects. The key dependencies include:
